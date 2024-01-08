@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello, World! 👋
 
-<!--
-**Eyorika/Eyorika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eyorika, a seasoned software developer who embarked on the coding journey at the young age of 9. My love for coding began with HTML and CSS, and since then, I've continued to explore and master various technologies.
 
-Here are some ideas to get you started:
+### 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on EAT TECH SOLUTIONS.
+- 🌱 I started coding at the age of 9 with HTML and CSS.
+- 👯 I’m passionate about collaborating on mobile and Web development .
+- 💬 Ask me about front end and back end more about python language.
+- 📫 How to reach me: Linkedin.
+
+### 🚀 Skills
+
+- Programming Languages: HTML , CSS JS, JAVA, PYTHON , C#, FLUTER, PHP, C++..etc
+- Frameworks: react, bootstrap, node.js angular ,django....
+- Tools & Technologies: for code writing environments mostly i used [ VS Code , Atom, IntelliJ IDEA Eclipse] version controlling [Git] Package manager [npm]
+- Frontend Frameworks  [React Vue.js Angular]
+- Backend Frameworks [Node.js Django Flask Spring Boot]
+
+### 🌐 Connect with Me
+
+[![GitHub](link to your GitHub profile)](https://github.com/Eyorika)
+[![LinkedIn](link to your LinkedIn profile)](https://www.linkedin.com/in/eyobayalew)
+[![Twitter](link to your Twitter profile)](https://twitter.com/eyobayalew6)
+
+
+
+
+
