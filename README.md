@@ -20,9 +20,9 @@ I'm Eyorika, a seasoned software developer who embarked on the coding journey at
 
 ### 🌐 Connect with Me
 
-[![GitHub](link to your GitHub profile)](https://github.com/Eyorika)
-[![LinkedIn](link to your LinkedIn profile)](https://www.linkedin.com/in/eyobayalew)
-[![Twitter](link to your Twitter profile)](https://twitter.com/eyobayalew6)
+[GitHub]https://github.com/Eyorika)
+[LinkedIn]https://www.linkedin.com/in/eyobayalew
+[Twitter]https://twitter.com/eyobayalew6
 
 
 
